@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+data/
+*.zip
+.matplotlib_cache/
